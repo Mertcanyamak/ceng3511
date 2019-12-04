@@ -1,8 +1,12 @@
 CENG 3511 
+
 Artificial Intelligence 
+
 Project 3: Solving Knapsack using Genetic Algorithms 
 
+
 Input Files :
+
 
 ● c.txt : capacity of knapsack 
 
@@ -15,9 +19,12 @@ Input Files :
 
 Output Files :
 
+
 ● out.txt: solution (fittest chromosome, it’s weight and value)
 
+
 Project Team Members:
+
 
 1-) Gülçin Betül Çetres
 
